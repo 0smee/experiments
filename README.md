@@ -1,7 +1,7 @@
 # Experiments
 
 --: gradient-descent: implementation of basic gradient descent using 
-numerical integration,tested on linear regression based on:
+numerical differentiation,tested on linear regression based on:
 
 - [Gradient Descent 
 Wikipedia](https://en.wikipedia.org/wiki/Gradient_descent)
